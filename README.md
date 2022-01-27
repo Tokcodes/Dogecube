@@ -10,3 +10,4 @@ and buy them in bulk alnog wiht raspbery pi's we can many game installed on it a
 So again i am encouraging you all to add your own little twist and see what we can do, if you want to show me anythnig you have done just message me on social media.
 
 (GAME WROTE IN PYTHON 3.9.0)
+(AND PLEASE GIVE CREDIT TO ME)
