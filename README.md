@@ -1,8 +1,6 @@
 # Dogecube
 This is a open source game, I would like everyone in this community to tag along and see what we can create!
 
-This is a open source game, I would like everyone in this community to tag along and see what we can create!
-
 I made a very simple game in python and alos pygame so I have all the files in this repository; I wanted to get along and get to know this ocmmuntiy a bit more so here I am to 
 see what we all can come up with maybe somone can make and educational version of this game and every time you die it ask you a question, if you get the question correct it 
 will allow you to keep playing but if you get it wrong you die. This was origanly made for a school stem fair project I made but I want to see what we can do here, the judges 
