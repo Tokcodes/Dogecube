@@ -8,3 +8,5 @@ came up wiht a bunch of good points like we could make a game that aks you math 
 really set this down in my heart to do this is the fact these game dont require wifi and raspbery pi's are cheep on their own but if you get some cheap screens that are small
 and buy them in bulk alnog wiht raspbery pi's we can many game installed on it and give it to less fortunate kids. And the educational game can really help them I do belive. 
 So again i am encouraging you all to add your own little twist and see what we can do, if you want to show me anythnig you have done just message me on social media.
+
+(GAME WROTE IN PYTHON 3.9.0)
